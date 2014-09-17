@@ -1,0 +1,20 @@
+D:\SW_Learn\Test\CreateFolder\bin\Debug\CreateFolder.exe
+D:\SW_Learn\Test\CreateFolder\bin\Debug\CreateFolder.pdb
+D:\SW_Learn\Test\CreateFolder\bin\Debug\CreateFolder.xml
+D:\SW_Learn\Test\CreateFolder\obj\Debug\ResolveAssemblyReference.cache
+D:\SW_Learn\Test\CreateFolder\obj\Debug\CreateFolder.frmCreateFolders.resources
+D:\SW_Learn\Test\CreateFolder\obj\Debug\CreateFolder.Resources.resources
+D:\SW_Learn\Test\CreateFolder\obj\Debug\CreateFolder.vbproj.GenerateResource.Cache
+D:\SW_Learn\Test\CreateFolder\obj\Debug\CreateFolder.exe
+D:\SW_Learn\Test\CreateFolder\obj\Debug\CreateFolder.xml
+D:\SW_Learn\Test\CreateFolder\obj\Debug\CreateFolder.pdb
+D:\SW_Projects\Other Application\CreateFolder\obj\Debug\CreateFolder.exe
+D:\SW_Projects\Other Application\CreateFolder\obj\Debug\CreateFolder.xml
+D:\SW_Projects\Other Application\CreateFolder\obj\Debug\CreateFolder.pdb
+D:\SW_Projects\Other Application\CreateFolder\bin\Debug\CreateFolder.exe
+D:\SW_Projects\Other Application\CreateFolder\bin\Debug\CreateFolder.pdb
+D:\SW_Projects\Other Application\CreateFolder\bin\Debug\CreateFolder.xml
+D:\SW_Projects\Other Application\CreateFolder\obj\Debug\ResolveAssemblyReference.cache
+D:\SW_Projects\Other Application\CreateFolder\obj\Debug\CreateFolder.frmCreateFolders.resources
+D:\SW_Projects\Other Application\CreateFolder\obj\Debug\CreateFolder.Resources.resources
+D:\SW_Projects\Other Application\CreateFolder\obj\Debug\CreateFolder.vbproj.GenerateResource.Cache
